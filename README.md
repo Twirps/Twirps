@@ -1,4 +1,4 @@
-# Wassup I'm Twirps, if you stumbled on in here its best to stumble away!
+# sup i'm Twirps, if you stumbled on in here its best to stumble away!
 
 - I'm just starting out learning how to code
 - Currrently taking a course in fullstack dev and wanted to post my stuff here
